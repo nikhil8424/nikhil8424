@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on: Building side projects, shipping ideas, and leveling up my DSA game<br>👯 I’m looking to collaborate on: Cool open-source, startups, or anything that breaks the usual<br>🤝 I’m looking for help with: Scaling projects and writing cleaner, smarter code<br>🌱 I’m currently learning: System design, advanced DSA, and modern web stacks<br>💬 Ask me about: Code, debugging chaos, and turning ideas into reality<br>⚡ Fun fact: I build things for fun… and sometimes they actually work 🚀<br>
+RAG)
 
 
 
@@ -7,14 +8,33 @@
 
 | Project | Domain | Description |
 |---------|---------|-------------|
-| [LegalEase](https://github.com/nikhil8424/legalease) | GenAI • RAG • LegalTech | AI-powered legal assistant with document simplification, OCR, clause extraction, and RAG chatbot support |
-| [Legal Relationship Extraction](https://github.com/nikhil8424/Legal-Relationship-Extraction-) | NLP • Knowledge Graphs • AI | Extracts legal entities, obligations, and relationships from legal documents |
-| [AI-Based Financial Fraud Intelligence System](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System) | Machine Learning • FinTech | Detects suspicious financial activity using ML-based fraud analysis |
-| [Student Burnout Predictor](https://github.com/nikhil8424/student-burn-out-predictor-version-2.1) | Machine Learning • Mental Health Tech | Predicts student burnout patterns using behavioral and academic data |
-| [AI Career Recommendation System](https://github.com/nikhil8424/AI-based-career-recommendation-system) | AI • Recommendation Systems | Suggests career paths using personality and skill-based analysis |
-| [Advanced Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | Cybersecurity • Deep Learning | Detects code vulnerabilities and suggests optimizations using neural models |
-| [AI Trip Planner](https://github.com/nikhil8424/ai-trip-planner) | AI • TravelTech | Smart AI-based travel itinerary planner |
-| [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game) | Game Development | Indie game project built with Godot/GDScript |
+| [LegalEase](https://github.com/nikhil8424/legalease) | GenAI • RAG • LegalTech | AI-powered legal assistant with OCR, clause extraction, legal simplification, multilingual support, and RAG chatbot integration |
+| [Ideascape](https://github.com/nikhil8424/mindmapping) | AI • Knowledge Graphs • 3D Visualization • Gesture Computing | A meditative AI-powered thought mapping platform that converts journal entries and thought streams into interactive 3D knowledge graphs with webcam gesture controls |
+| [Legal Relationship Extraction](https://github.com/nikhil8424/Legal-Relationship-Extraction-) | NLP • Knowledge Graphs • AI | Extracts legal entities, obligations, and relationships from legal documents to generate structured relationship graphs |
+| [AI-Based Financial Fraud Intelligence System](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System) | Machine Learning • FinTech | ML-powered fraud analysis and suspicious transaction detection system |
+| [Student Burnout Predictor](https://github.com/nikhil8424/student-burn-out-predictor-version-2.1) | Machine Learning • Mental Health Tech | Predicts student burnout patterns using behavioral and academic datasets |
+| [AI Career Recommendation System](https://github.com/nikhil8424/AI-based-career-recommendation-system) | AI • Recommendation Systems | Intelligent career recommendation engine based on personality and skill analysis |
+| [Advanced Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | Cybersecurity • Deep Learning | AI-based vulnerability detection and code optimization recommendation system |
+| [AI Trip Planner](https://github.com/nikhil8424/ai-trip-planner) | AI • TravelTech | Smart AI-powered travel itinerary planner |
+| [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game) | Game Development | Indie game built using Godot and GDScript |
+| [IPL Player Analysis](https://github.com/nikhil8424/IPL_Player_Analysis) | Data Analysis • Sports Analytics | Data-driven IPL player performance analysis and visualization platform |
+
+---
+
+# 🌌 Featured Experimental Project
+
+## [Ideascape](https://github.com/nikhil8424/mindmapping)
+
+An experimental AI-powered cognitive visualization platform that transforms thoughts, dreams, and journal fragments into interactive 3D constellations using:
+
+- Sentence Transformers
+- Knowledge Graph Generation
+- Three.js 3D Rendering
+- MediaPipe Gesture Controls
+- Real-time Clustering & Similarity Mapping
+- Interactive Graph Exploration
+
+Built using React, TypeScript, Three.js, Fastify, MediaPipe, and local transformer embeddings.
 
 ---
 
@@ -25,6 +45,10 @@
 - Machine Learning
 - Deep Learning
 - NLP (Natural Language Processing)
+- Knowledge Graphs
+- AI Visualization Systems
+- Human-Computer Interaction
+- Gesture-Based Computing
 - LegalTech
 - Recommendation Systems
 - Cybersecurity AI
@@ -34,7 +58,8 @@
 - Data Analysis
 - Game Development
 - OCR & Document Intelligence
-- Knowledge Graphs
+- 3D Interactive Systems
+- AI Product Engineering
 
 ---
 
@@ -43,9 +68,14 @@
 - AI Agents & Autonomous Systems
 - Vector Databases
 - LLM Fine-Tuning
+- Multi-Agent Systems
 - Scalable Backend Architectures
 - Advanced DSA & Competitive Programming
 - Cloud + DevOps Workflows
+- AI-native Product Design
+- Real-time AI Applications
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil._o611) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-gupta-6b7705288/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@nikhil chandrakesh gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptanikhil8424@gmail.com) 
