@@ -9,7 +9,7 @@ RAG)
 | Project | Domain | Description |
 |---------|---------|-------------|
 | [LegalEase](https://github.com/nikhil8424/legalease) | GenAI • RAG • LegalTech | AI-powered legal assistant with OCR, clause extraction, legal simplification, multilingual support, and RAG chatbot integration |
-| [Ideascape](https://github.com/nikhil8424/mindmapping) | AI • Knowledge Graphs • 3D Visualization • Gesture Computing | A meditative AI-powered thought mapping platform that converts journal entries and thought streams into interactive 3D knowledge graphs with webcam gesture controls |
+| [Ideascape](https://github.com/nikhil8424/mindmap) | AI • Knowledge Graphs • 3D Visualization • Gesture Computing | A meditative AI-powered thought mapping platform that converts journal entries and thought streams into interactive 3D knowledge graphs with webcam gesture controls |
 | [Legal Relationship Extraction](https://github.com/nikhil8424/Legal-Relationship-Extraction-) | NLP • Knowledge Graphs • AI | Extracts legal entities, obligations, and relationships from legal documents to generate structured relationship graphs |
 | [AI-Based Financial Fraud Intelligence System](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System) | Machine Learning • FinTech | ML-powered fraud analysis and suspicious transaction detection system |
 | [Student Burnout Predictor](https://github.com/nikhil8424/student-burn-out-predictor-version-2.1) | Machine Learning • Mental Health Tech | Predicts student burnout patterns using behavioral and academic datasets |
