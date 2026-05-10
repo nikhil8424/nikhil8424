@@ -2,6 +2,51 @@
 🔭 I’m currently working on: Building side projects, shipping ideas, and leveling up my DSA game<br>👯 I’m looking to collaborate on: Cool open-source, startups, or anything that breaks the usual<br>🤝 I’m looking for help with: Scaling projects and writing cleaner, smarter code<br>🌱 I’m currently learning: System design, advanced DSA, and modern web stacks<br>💬 Ask me about: Code, debugging chaos, and turning ideas into reality<br>⚡ Fun fact: I build things for fun… and sometimes they actually work 🚀<br>
 
 
+
+# 🚀 Current Working Projects
+
+| Project | Domain | Description |
+|---------|---------|-------------|
+| [LegalEase](https://github.com/nikhil8424/legalease) | GenAI • RAG • LegalTech | AI-powered legal assistant with document simplification, OCR, clause extraction, and RAG chatbot support |
+| [Legal Relationship Extraction](https://github.com/nikhil8424/Legal-Relationship-Extraction-) | NLP • Knowledge Graphs • AI | Extracts legal entities, obligations, and relationships from legal documents |
+| [AI-Based Financial Fraud Intelligence System](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System) | Machine Learning • FinTech | Detects suspicious financial activity using ML-based fraud analysis |
+| [Student Burnout Predictor](https://github.com/nikhil8424/student-burn-out-predictor-version-2.1) | Machine Learning • Mental Health Tech | Predicts student burnout patterns using behavioral and academic data |
+| [AI Career Recommendation System](https://github.com/nikhil8424/AI-based-career-recommendation-system) | AI • Recommendation Systems | Suggests career paths using personality and skill-based analysis |
+| [Advanced Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | Cybersecurity • Deep Learning | Detects code vulnerabilities and suggests optimizations using neural models |
+| [AI Trip Planner](https://github.com/nikhil8424/ai-trip-planner) | AI • TravelTech | Smart AI-based travel itinerary planner |
+| [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game) | Game Development | Indie game project built with Godot/GDScript |
+
+---
+
+# 🧠 Domains I Work In
+
+- Generative AI (GenAI)
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Deep Learning
+- NLP (Natural Language Processing)
+- LegalTech
+- Recommendation Systems
+- Cybersecurity AI
+- FinTech
+- Web Development
+- System Design
+- Data Analysis
+- Game Development
+- OCR & Document Intelligence
+- Knowledge Graphs
+
+---
+
+# 📌 Currently Exploring
+
+- AI Agents & Autonomous Systems
+- Vector Databases
+- LLM Fine-Tuning
+- Scalable Backend Architectures
+- Advanced DSA & Competitive Programming
+- Cloud + DevOps Workflows
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil._o611) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-gupta-6b7705288/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@nikhil chandrakesh gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptanikhil8424@gmail.com) 
 
