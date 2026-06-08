@@ -19,8 +19,25 @@ RAG)
 | [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game) | Game Development | Indie game built using Godot and GDScript |
 | [IPL Player Analysis](https://github.com/nikhil8424/IPL_Player_Analysis) | Data Analysis • Sports Analytics | Data-driven IPL player performance analysis and visualization platform |
 
+# 🌌 Featured Experimental Project
+
+## [Ideascape](https://github.com/nikhil8424/mindmapping)
+
+An experimental AI-powered cognitive visualization platform that transforms thoughts, dreams, and journal fragments into interactive 3D constellations using:
+
+- Sentence Transformers
+- Knowledge Graph Generation
+- Three.js 3D Rendering
+- MediaPipe Gesture Controls
+- Real-time Clustering & Similarity Mapping
+- Interactive Graph Exploration
+
+Built using React, TypeScript, Three.js, Fastify, MediaPipe, and local transformer embeddings.
+
+
 ---
 NON ACTIVE PRIVATE PROJECTS 
+IF YOU ARE INTERESTED IN ANY ; MAIL ME 
 | Project | GitHub Link |
 |----------|------------|
 | legalese_in_flask | https://github.com/nikhil8424/legalese_in_flask |
@@ -55,20 +72,6 @@ NON ACTIVE PRIVATE PROJECTS
 | Advanced-Neural-Code-Vulnerability-Classifier-version-1 | https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier-version-1 |
 | sem6-proj | https://github.com/nikhil8424/sem6-proj |
 
-# 🌌 Featured Experimental Project
-
-## [Ideascape](https://github.com/nikhil8424/mindmapping)
-
-An experimental AI-powered cognitive visualization platform that transforms thoughts, dreams, and journal fragments into interactive 3D constellations using:
-
-- Sentence Transformers
-- Knowledge Graph Generation
-- Three.js 3D Rendering
-- MediaPipe Gesture Controls
-- Real-time Clustering & Similarity Mapping
-- Interactive Graph Exploration
-
-Built using React, TypeScript, Three.js, Fastify, MediaPipe, and local transformer embeddings.
 
 ---
 
