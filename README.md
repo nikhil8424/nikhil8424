@@ -2,9 +2,9 @@
 🔭 I’m currently working on: Building side projects, shipping ideas, and leveling up my DSA game<br>👯 I’m looking to collaborate on: Cool open-source, startups, or anything that breaks the usual<br>🤝 I’m looking for help with: Scaling projects and writing cleaner, smarter code<br>🌱 I’m currently learning: System design, advanced DSA, and modern web stacks<br>💬 Ask me about: Code, debugging chaos, and turning ideas into reality<br>⚡ Fun fact: I build things for fun… and sometimes they actually work 🚀<br>
 RAG
 Connect With Me
-💼 LinkedIn: https://linkedin.com/in/nikhil-gupta-6b7705288
-📧 Email: guptanikhil8424@example.com
-📄 Resume: https://docs.google.com/document/d/1Y5OU840INffko6XqPo3fr4t1v5Od6NuR/edit?usp=sharing&ouid=102459893630929659026&rtpof=true&sd=true
+(LinkedIn) [https://linkedin.com/in/nikhil-gupta-6b7705288]
+(Email)[ guptanikhil8424@example.com]
+(Resume)[https://docs.google.com/document/d/1Y5OU840INffko6XqPo3fr4t1v5Od6NuR/edit?usp=sharing&ouid=102459893630929659026&rtpof=true&sd=true]
 
 
 # 🚀 Current Working Projects
