@@ -20,6 +20,40 @@ RAG)
 | [IPL Player Analysis](https://github.com/nikhil8424/IPL_Player_Analysis) | Data Analysis • Sports Analytics | Data-driven IPL player performance analysis and visualization platform |
 
 ---
+NON ACTIVE PRIVATE PROJECTS 
+| Project | GitHub Link |
+|----------|------------|
+| legalese_in_flask | https://github.com/nikhil8424/legalese_in_flask |
+| final_legalese_application | https://github.com/nikhil8424/final_legalese_application |
+| Legalese_for_hackathon | https://github.com/nikhil8424/Legalese_for_hackathon |
+| legalEase-version-4.2 | https://github.com/nikhil8424/legalEase-version-4.2 |
+| legalease6.1 | https://github.com/nikhil8424/legalease6.1 |
+| legalease6.2 | https://github.com/nikhil8424/legalease6.2 |
+| Legalese_version_3.0 | https://github.com/nikhil8424/Legalese_version_3.0 |
+| LegalEase_version_1.0 | https://github.com/nikhil8424/LegalEase_version_1.0 |
+| v0-gym-management-website | https://github.com/nikhil8424/v0-gym-management-website |
+| IdeaScape | https://github.com/nikhil8424/IdeaScape |
+| portttfooollioooooooooo | https://github.com/nikhil8424/portttfooollioooooooooo |
+| portfolio | https://github.com/nikhil8424/portfolio |
+| portfolios | https://github.com/nikhil8424/portfolios |
+| poertolio | https://github.com/nikhil8424/poertolio |
+| portfolio-nikhil-gupta | https://github.com/nikhil8424/portfolio-nikhil-gupta |
+| ideascape2 | https://github.com/nikhil8424/ideascape2 |
+| SIES_NERUL_HACKATHON_2025_cashein | https://github.com/nikhil8424/SIES_NERUL_HACKATHON_2025_cashein |
+| Aditya-Singh | https://github.com/nikhil8424/Aditya-Singh |
+| student-burn-out-predictor-version-2.1 | https://github.com/nikhil8424/student-burn-out-predictor-version-2.1 |
+| cc-main | https://github.com/nikhil8424/cc-main |
+| lucene- | https://github.com/nikhil8424/lucene- |
+| shubhammm | https://github.com/nikhil8424/shubhammm |
+| shubkirti | https://github.com/nikhil8424/shubkirti |
+| pinterest- | https://github.com/nikhil8424/pinterest- |
+| proj3 | https://github.com/nikhil8424/proj3 |
+| cc-project-main- | https://github.com/nikhil8424/cc-project-main- |
+| ceeras_hackathon_2025 | https://github.com/nikhil8424/ceeras_hackathon_2025 |
+| IPL_Player_Analysis | https://github.com/nikhil8424/IPL_Player_Analysis |
+| Brain-Tumor-Segmentation-Using-Active-Contours | https://github.com/nikhil8424/Brain-Tumor-Segmentation-Using-Active-Contours |
+| Advanced-Neural-Code-Vulnerability-Classifier-version-1 | https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier-version-1 |
+| sem6-proj | https://github.com/nikhil8424/sem6-proj |
 
 # 🌌 Featured Experimental Project
 
