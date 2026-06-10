@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on: Building side projects, shipping ideas, and leveling up my DSA game<br>👯 I’m looking to collaborate on: Cool open-source, startups, or anything that breaks the usual<br>🤝 I’m looking for help with: Scaling projects and writing cleaner, smarter code<br>🌱 I’m currently learning: System design, advanced DSA, and modern web stacks<br>💬 Ask me about: Code, debugging chaos, and turning ideas into reality<br>⚡ Fun fact: I build things for fun… and sometimes they actually work 🚀<br>
-[portfolio](https://port-kyap6969b-nikhil8424s-projects.vercel.app/)
+[portfolio](https://port-kyap6969b-nikhil8424s-projects.vercel.app/)<br>
 Connect With Me<BR>
 [LinkedIn](https://linkedin.com/in/nikhil-gupta-6b7705288)
 [Email](guptanikhil8424@example.com)
