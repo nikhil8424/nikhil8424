@@ -6,6 +6,16 @@ Connect With Me<BR>
 [Email](guptanikhil8424@example.com)
 [Resume](https://docs.google.com/document/d/1Y5OU840INffko6XqPo3fr4t1v5Od6NuR/edit?usp=sharing&ouid=102459893630929659026&rtpof=true&sd=true)
 
+## 📄 Research Paper
+
+This repository accompanies the research paper:
+
+**Learned vs. Heuristic Thresholds for Cascade Retrieval Routing in Indian Legal Question Answering**
+
+The study investigates whether a lightweight machine learning router can outperform a manually selected heuristic threshold for adaptive retrieval routing in Indian Legal RAG systems. It compares four retrieval strategies—Vector-only, Graph-only, Fixed-threshold Cascade, and Learned-threshold Cascade—using metrics such as Exact Match (EM), Token-level F1, Graph Invocation Rate, and Retrieval Latency.
+
+> **Status:** Under review 
+
 
 # 🚀 Current Working Projects
 
