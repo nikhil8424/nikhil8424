@@ -32,6 +32,36 @@ The study investigates whether a lightweight machine learning router can outperf
 | [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game) | Game Development | Indie game built using Godot and GDScript |
 | [IPL Player Analysis](https://github.com/nikhil8424/IPL_Player_Analysis) | Data Analysis • Sports Analytics | Data-driven IPL player performance analysis and visualization platform |
 
+# 📚 GitHub Repositories
+
+Here are some of my public repositories and ongoing experiments:
+
+| Repository | Domain / Focus |
+|---|---|
+| [Semantic---Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift-v3](https://github.com/nikhil8424/Semantic---Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift-v3) | Spiking Neural Networks • Legal NLP • Domain Shift |
+| [AI-Based-Financial-Fraud-Intelligence-System-v4](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System-v4) | AI • FinTech • Fraud Detection |
+| [AI-Based-Financial-Fraud-Intelligence-System-v3](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System-v3) | AI • FinTech • Fraud Detection |
+| [AI-Based-Financial-Fraud-Intelligence-System-v2](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System-v2) | AI • FinTech • Fraud Detection |
+| [Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset---v2](https://github.com/nikhil8424/Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset---v2) | Machine Learning • Self-Organizing Maps |
+| [Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-](https://github.com/nikhil8424/Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-) | Machine Learning • Self-Organizing Maps |
+| [Spike-Legal-NLP](https://github.com/nikhil8424/Spike-Legal-NLP) | Spiking Neural Networks • Legal NLP |
+| [wannawpwww](https://github.com/nikhil8424/wannawpwww) | Web Development • TypeScript |
+| [Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering](https://github.com/nikhil8424/Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering) | RAG • LegalTech • Retrieval Routing |
+| [A-Semantic-and-Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift](https://github.com/nikhil8424/A-Semantic-and-Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift) | Spiking Neural Networks • Legal NLP |
+| [researchpaper](https://github.com/nikhil8424/researchpaper) | Research • TypeScript |
+| [full-stack](https://github.com/nikhil8424/full-stack) | Full-Stack Development |
+| [legal-spike-encoding](https://github.com/nikhil8424/legal-spike-encoding) | Spiking Neural Networks • Legal NLP |
+| [nikhil8424](https://github.com/nikhil8424/nikhil8424) | GitHub Profile |
+| [mindmap](https://github.com/nikhil8424/mindmap) | AI • Knowledge Graphs • 3D Visualization |
+| [Cyborg-Themed-Landing-Page-Development](https://github.com/nikhil8424/Cyborg-Themed-Landing-Page-Development) | Frontend • UI/UX • TypeScript |
+| [task3](https://github.com/nikhil8424/task3) | Web Development • TypeScript |
+| [task2-](https://github.com/nikhil8424/task2-) | Web Development • TypeScript |
+| [Build-in-3D](https://github.com/nikhil8424/Build-in-3D) | 3D Web Development • TypeScript |
+| [port](https://github.com/nikhil8424/port) | Portfolio • Web Development |
+| [mindmapping](https://github.com/nikhil8424/mindmapping) | AI • Mind Mapping • TypeScript |
+| [legalease](https://github.com/nikhil8424/legalease) | GenAI • RAG • LegalTech |
+| [java](https://github.com/nikhil8424/java) | Java • Programming |
+
 # 🌌 Featured Experimental Project
 
 ## [Ideascape](https://github.com/nikhil8424/mindmapping)
