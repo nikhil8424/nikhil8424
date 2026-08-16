@@ -6,7 +6,7 @@ I’m a Computer Science student interested in **Artificial Intelligence, Machin
 
 I enjoy turning research ideas into working systems — from **fraud intelligence and graph neural networks** to **legal RAG, spiking neural networks, and representation learning**.
 
-🌐 **Portfolio:** [nikhil8424.vercel.app](https://port-seven-orpin.vercel.app/)
+🌐 **Portfolio:** [nikhil8424.vercel.app](https://port-seven-orpin.vercel.app/)<br>
 🌐 **Resume:**[resume](https://drive.google.com/file/d/1BpKdMdZ43TAO3jdYgmtv7lhpRbPfQcOb/view?usp=sharing)
 
 ---
