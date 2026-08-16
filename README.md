@@ -1,176 +1,317 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building side projects, shipping ideas, and leveling up my DSA game<br>👯 I’m looking to collaborate on: Cool open-source, startups, or anything that breaks the usual<br>🤝 I’m looking for help with: Scaling projects and writing cleaner, smarter code<br>🌱 I’m currently learning: System design, advanced DSA, and modern web stacks<br>💬 Ask me about: Code, debugging chaos, and turning ideas into reality<br>⚡ Fun fact: I build things for fun… and sometimes they actually work 🚀<br>
-[portfolio](https://port-kyap6969b-nikhil8424s-projects.vercel.app/)<br>
-Connect With Me<BR>
-[LinkedIn](https://linkedin.com/in/nikhil-gupta-6b7705288)
-[Email](guptanikhil8424@example.com)
-[Resume](https://docs.google.com/document/d/1Y5OU840INffko6XqPo3fr4t1v5Od6NuR/edit?usp=sharing&ouid=102459893630929659026&rtpof=true&sd=true)
+# 👋 Hi, I'm Nikhil Gupta
 
-## 📄 Research Paper
+### Computer Science Student • AI/ML Researcher • Builder
 
-This repository accompanies the research paper:
+I’m a Computer Science student interested in **Artificial Intelligence, Machine Learning, Generative AI, RAG, NLP, Graph Learning, and AI systems**.
 
-**Learned vs. Heuristic Thresholds for Cascade Retrieval Routing in Indian Legal Question Answering**
+I enjoy turning research ideas into working systems — from **fraud intelligence and graph neural networks** to **legal RAG, spiking neural networks, and representation learning**.
 
-The study investigates whether a lightweight machine learning router can outperform a manually selected heuristic threshold for adaptive retrieval routing in Indian Legal RAG systems. It compares four retrieval strategies—Vector-only, Graph-only, Fixed-threshold Cascade, and Learned-threshold Cascade—using metrics such as Exact Match (EM), Token-level F1, Graph Invocation Rate, and Retrieval Latency.
-
-> **Status:** Under review 
-
-
-# 🚀 Current Working Projects
-
-| Project | Domain | Description |
-|---------|---------|-------------|
-| [LegalEase](https://github.com/nikhil8424/legalease) | GenAI • RAG • LegalTech | AI-powered legal assistant with OCR, clause extraction, legal simplification, multilingual support, and RAG chatbot integration |
-| [Ideascape](https://github.com/nikhil8424/mindmap) | AI • Knowledge Graphs • 3D Visualization • Gesture Computing | A meditative AI-powered thought mapping platform that converts journal entries and thought streams into interactive 3D knowledge graphs with webcam gesture controls |
-| [Legal Relationship Extraction](https://github.com/nikhil8424/Legal-Relationship-Extraction-) | NLP • Knowledge Graphs • AI | Extracts legal entities, obligations, and relationships from legal documents to generate structured relationship graphs |
-| [AI-Based Financial Fraud Intelligence System](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System) | Machine Learning • FinTech | ML-powered fraud analysis and suspicious transaction detection system |
-| [Student Burnout Predictor](https://github.com/nikhil8424/student-burn-out-predictor-version-2.1) | Machine Learning • Mental Health Tech | Predicts student burnout patterns using behavioral and academic datasets |
-| [AI Career Recommendation System](https://github.com/nikhil8424/AI-based-career-recommendation-system) | AI • Recommendation Systems | Intelligent career recommendation engine based on personality and skill analysis |
-| [Advanced Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | Cybersecurity • Deep Learning | AI-based vulnerability detection and code optimization recommendation system |
-| [AI Trip Planner](https://github.com/nikhil8424/ai-trip-planner) | AI • TravelTech | Smart AI-powered travel itinerary planner |
-| [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game) | Game Development | Indie game built using Godot and GDScript |
-| [IPL Player Analysis](https://github.com/nikhil8424/IPL_Player_Analysis) | Data Analysis • Sports Analytics | Data-driven IPL player performance analysis and visualization platform |
-
-# 📚 GitHub Repositories
-
-Here are some of my public repositories and ongoing experiments:
-
-| Repository | Domain / Focus |
-|---|---|
-| [Semantic---Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift-v3](https://github.com/nikhil8424/Semantic---Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift-v3) | Spiking Neural Networks • Legal NLP • Domain Shift |
-| [AI-Based-Financial-Fraud-Intelligence-System-v4](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System-v4) | AI • FinTech • Fraud Detection |
-| [AI-Based-Financial-Fraud-Intelligence-System-v3](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System-v3) | AI • FinTech • Fraud Detection |
-| [AI-Based-Financial-Fraud-Intelligence-System-v2](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System-v2) | AI • FinTech • Fraud Detection |
-| [Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset---v2](https://github.com/nikhil8424/Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset---v2) | Machine Learning • Self-Organizing Maps |
-| [Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-](https://github.com/nikhil8424/Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-) | Machine Learning • Self-Organizing Maps |
-| [Spike-Legal-NLP](https://github.com/nikhil8424/Spike-Legal-NLP) | Spiking Neural Networks • Legal NLP |
-| [wannawpwww](https://github.com/nikhil8424/wannawpwww) | Web Development • TypeScript |
-| [Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering](https://github.com/nikhil8424/Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering) | RAG • LegalTech • Retrieval Routing |
-| [A-Semantic-and-Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift](https://github.com/nikhil8424/A-Semantic-and-Energy-Aware-Study-of-Spike-Encoding-for-Legal-Text-Classification-Under-Domain-Shift) | Spiking Neural Networks • Legal NLP |
-| [researchpaper](https://github.com/nikhil8424/researchpaper) | Research • TypeScript |
-| [full-stack](https://github.com/nikhil8424/full-stack) | Full-Stack Development |
-| [legal-spike-encoding](https://github.com/nikhil8424/legal-spike-encoding) | Spiking Neural Networks • Legal NLP |
-| [nikhil8424](https://github.com/nikhil8424/nikhil8424) | GitHub Profile |
-| [mindmap](https://github.com/nikhil8424/mindmap) | AI • Knowledge Graphs • 3D Visualization |
-| [Cyborg-Themed-Landing-Page-Development](https://github.com/nikhil8424/Cyborg-Themed-Landing-Page-Development) | Frontend • UI/UX • TypeScript |
-| [task3](https://github.com/nikhil8424/task3) | Web Development • TypeScript |
-| [task2-](https://github.com/nikhil8424/task2-) | Web Development • TypeScript |
-| [Build-in-3D](https://github.com/nikhil8424/Build-in-3D) | 3D Web Development • TypeScript |
-| [port](https://github.com/nikhil8424/port) | Portfolio • Web Development |
-| [mindmapping](https://github.com/nikhil8424/mindmapping) | AI • Mind Mapping • TypeScript |
-| [legalease](https://github.com/nikhil8424/legalease) | GenAI • RAG • LegalTech |
-| [java](https://github.com/nikhil8424/java) | Java • Programming |
-
-# 🌌 Featured Experimental Project
-
-## [Ideascape](https://github.com/nikhil8424/mindmapping)
-
-An experimental AI-powered cognitive visualization platform that transforms thoughts, dreams, and journal fragments into interactive 3D constellations using:
-
-- Sentence Transformers
-- Knowledge Graph Generation
-- Three.js 3D Rendering
-- MediaPipe Gesture Controls
-- Real-time Clustering & Similarity Mapping
-- Interactive Graph Exploration
-
-Built using React, TypeScript, Three.js, Fastify, MediaPipe, and local transformer embeddings.
-
+🌐 **Portfolio:** [nikhil8424.vercel.app](https://port-kyap6969b-nikhil8424s-projects.vercel.app/)
 
 ---
-NON ACTIVE PRIVATE PROJECTS 
-IF YOU ARE INTERESTED IN ANY ; MAIL ME 
-| Project | GitHub Link |
-|----------|------------|
-| legalese_in_flask | https://github.com/nikhil8424/legalese_in_flask |
-| final_legalese_application | https://github.com/nikhil8424/final_legalese_application |
-| Legalese_for_hackathon | https://github.com/nikhil8424/Legalese_for_hackathon |
-| legalEase-version-4.2 | https://github.com/nikhil8424/legalEase-version-4.2 |
-| legalease6.1 | https://github.com/nikhil8424/legalease6.1 |
-| legalease6.2 | https://github.com/nikhil8424/legalease6.2 |
-| Legalese_version_3.0 | https://github.com/nikhil8424/Legalese_version_3.0 |
-| LegalEase_version_1.0 | https://github.com/nikhil8424/LegalEase_version_1.0 |
-| v0-gym-management-website | https://github.com/nikhil8424/v0-gym-management-website |
-| IdeaScape | https://github.com/nikhil8424/IdeaScape |
-| portttfooollioooooooooo | https://github.com/nikhil8424/portttfooollioooooooooo |
-| portfolio | https://github.com/nikhil8424/portfolio |
-| portfolios | https://github.com/nikhil8424/portfolios |
-| poertolio | https://github.com/nikhil8424/poertolio |
-| portfolio-nikhil-gupta | https://github.com/nikhil8424/portfolio-nikhil-gupta |
-| ideascape2 | https://github.com/nikhil8424/ideascape2 |
-| SIES_NERUL_HACKATHON_2025_cashein | https://github.com/nikhil8424/SIES_NERUL_HACKATHON_2025_cashein |
-| Aditya-Singh | https://github.com/nikhil8424/Aditya-Singh |
-| student-burn-out-predictor-version-2.1 | https://github.com/nikhil8424/student-burn-out-predictor-version-2.1 |
-| cc-main | https://github.com/nikhil8424/cc-main |
-| lucene- | https://github.com/nikhil8424/lucene- |
-| shubhammm | https://github.com/nikhil8424/shubhammm |
-| shubkirti | https://github.com/nikhil8424/shubkirti |
-| pinterest- | https://github.com/nikhil8424/pinterest- |
-| proj3 | https://github.com/nikhil8424/proj3 |
-| cc-project-main- | https://github.com/nikhil8424/cc-project-main- |
-| ceeras_hackathon_2025 | https://github.com/nikhil8424/ceeras_hackathon_2025 |
-| IPL_Player_Analysis | https://github.com/nikhil8424/IPL_Player_Analysis |
-| Brain-Tumor-Segmentation-Using-Active-Contours | https://github.com/nikhil8424/Brain-Tumor-Segmentation-Using-Active-Contours |
-| Advanced-Neural-Code-Vulnerability-Classifier-version-1 | https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier-version-1 |
-| sem6-proj | https://github.com/nikhil8424/sem6-proj |
 
+## 🔬 Research & Experimental Work
+
+### 🏦 AI-Based Financial Fraud Intelligence System
+
+A comprehensive financial fraud detection framework combining **graph analytics, anomaly detection, and Graph Neural Networks (GNNs)** to identify fraudulent transactions and suspicious accounts in financial networks.
+
+**Key components:**
+
+* Transaction graph construction and network analysis
+* Isolation Forest and Local Outlier Factor (LOF) anomaly detection
+* Custom GNN-based fraud prediction
+* Supervised and pseudo-labeled training modes
+* Multi-signal risk scoring
+* Centrality-based suspicious-account analysis
+* Louvain community detection for potential fraud rings
+* Real-time transaction risk scoring
+* Interactive Streamlit dashboard
+* Configurable risk-score weighting
+* CSV export for risk analysis
+
+🔗 [Repository](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System)
+
+---
+
+### 🧠 Hierarchical SOM on the UCI Gas Sensor Array Drift Dataset
+
+A research-style experimental pipeline investigating **hierarchical representation learning with Self-Organizing Maps (SOMs)** using the real UCI Gas Sensor Array Drift Dataset.
+
+The pipeline constructs a genuine cascade:
+
+**Raw Sensor Data → SOM 1 → Learned Representation → SOM 2**
+
+**Research components:**
+
+* Standardized 128-dimensional sensor features
+* SOM 1 representation learning
+* Two alternative representations:
+
+  * BMU coordinates + quantization error
+  * 128-dimensional BMU prototype + quantization error
+* Second-stage SOM representation learning
+* Comparison against:
+
+  * K-Means
+  * Single SOM
+  * SOM → K-Means
+* Internal and external clustering evaluation
+* Sensor drift investigation across 10 batches
+* Controlled SOM grid-size hyperparameter sweep
+
+🔗 [Repository](https://github.com/nikhil8424/Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-)
+
+---
+
+### ⚡ Spike-Legal-NLP
+
+**A Semantic- and Energy-Aware Study of Spike Encoding for Legal Text Classification Under Domain Shift**
+
+A research framework comparing conventional **Transformer-based Legal NLP models** with **Spike Encoding + Spiking Neural Networks (SNNs)** for legal text classification.
+
+The project focuses on understanding the trade-offs between **semantic representation, classification performance, energy-aware computation, and robustness under domain shift**.
+
+**Research focus:**
+
+* Transformer-based legal text classification
+* Spike encoding strategies
+* Spiking Neural Networks
+* Legal-domain NLP
+* Domain-shift evaluation
+* Semantic and energy-aware analysis
+* Experimental comparison of conventional and spiking architectures
+
+🔗 [Repository](https://github.com/nikhil8424/Spike-Legal-NLP)
+
+---
+
+### ⚖️ Learned vs. Heuristic Thresholds for Cascade Retrieval Routing in Indian Legal Question Answering
+
+A research project investigating **adaptive retrieval routing for Indian Legal RAG systems**.
+
+The framework compares whether a lightweight learned routing mechanism can outperform a manually selected heuristic threshold when deciding when to invoke **Knowledge Graph retrieval** alongside dense vector retrieval.
+
+**Retrieval strategies evaluated:**
+
+* Vector-only retrieval
+* Graph-only retrieval
+* Fixed-threshold cascade
+* Learned-threshold cascade
+
+**Evaluation metrics:**
+
+* Exact Match (EM)
+* Token-level F1
+* Graph Invocation Rate
+* Retrieval Latency
+
+The goal is to improve **retrieval efficiency while maintaining answer quality** in legal question-answering systems.
+
+📄 **Research Paper:** *Learned vs. Heuristic Thresholds for Cascade Retrieval Routing in Indian Legal Question Answering*
+
+🔗 [Repository](https://github.com/nikhil8424/Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering)
+
+**Status:** Under review
+
+---
+
+# 🚀 Featured Projects
+
+| Project                                                                                                             | Domain                     | Description                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [LegalEase](https://github.com/nikhil8424/legalease)                                                                | GenAI • RAG • LegalTech    | AI-powered legal assistant with OCR, clause extraction, legal simplification, multilingual support, and RAG       |
+| [Ideascape](https://github.com/nikhil8424/mindmap)                                                                  | AI • Knowledge Graphs • 3D | AI-powered thought visualization platform that transforms journal entries into interactive 3D knowledge graphs    |
+| [Legal Relationship Extraction](https://github.com/nikhil8424/Legal-Relationship-Extraction-)                       | NLP • Knowledge Graphs     | Extracts legal entities, obligations, and relationships from documents to generate structured relationship graphs |
+| [Financial Fraud Intelligence](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System)          | ML • FinTech • GNN         | Graph-based fraud intelligence system combining anomaly detection, GNNs, community detection, and risk scoring    |
+| [Hierarchical SOM](https://github.com/nikhil8424/Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-)       | ML • Unsupervised Learning | Hierarchical SOM representation-learning pipeline evaluated on the UCI Gas Sensor Array Drift Dataset             |
+| [Spike-Legal-NLP](https://github.com/nikhil8424/Spike-Legal-NLP)                                                    | SNN • Legal NLP            | Experimental framework studying spike encoding and SNNs for legal text classification under domain shift          |
+| [Student Burnout Predictor](https://github.com/nikhil8424/student-burn-out-predictor-version-2.1)                   | ML • EdTech                | Machine-learning system for identifying student burnout patterns                                                  |
+| [AI Career Recommendation](https://github.com/nikhil8424/AI-based-career-recommendation-system)                     | AI • Recommendation        | Intelligent career recommendation engine based on personality and skill analysis                                  |
+| [Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | AI • Cybersecurity         | Neural model for code vulnerability detection and optimization recommendations                                    |
+
+---
+
+# 🧪 Research Interests
+
+My current research interests include:
+
+* 🤖 Generative AI & Large Language Models
+* 🔎 Retrieval-Augmented Generation
+* ⚖️ Legal AI & Legal NLP
+* 🧠 Explainable & Fair Machine Learning
+* 🕸️ Graph Neural Networks
+* 📊 Anomaly Detection
+* 🧩 Knowledge Graphs
+* ⚡ Spiking Neural Networks
+* 🗺️ Representation Learning
+* 🔄 Adaptive Retrieval & Routing
+* 📈 Unsupervised Learning
+* 🔐 AI for Cybersecurity
+* 💳 AI for Financial Fraud Detection
+* 🌐 AI Systems & AI Product Engineering
+
+---
+
+# 📚 Other Projects
+
+| Project                                                                                                                      | Domain                           |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [AI Trip Planner](https://github.com/nikhil8424/ai-trip-planner)                                                             | AI • TravelTech                  |
+| [Advanced Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | Cybersecurity • Deep Learning    |
+| [IPL Player Analysis](https://github.com/nikhil8424/IPL_Player_Analysis)                                                     | Data Analysis • Sports Analytics |
+| [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game)                                                           | Game Development • Godot         |
+| [Full Stack](https://github.com/nikhil8424/full-stack)                                                                       | Full-Stack Development           |
+| [Build-in-3D](https://github.com/nikhil8424/Build-in-3D)                                                                     | 3D Web Development               |
+| [Cyborg Landing Page](https://github.com/nikhil8424/Cyborg-Themed-Landing-Page-Development)                                  | Frontend • UI/UX                 |
+
+---
+
+# 🌌 Ideascape
+
+One of my experimental projects is **Ideascape**, an AI-powered cognitive visualization platform.
+
+It transforms thoughts, dreams, and journal fragments into interactive **3D knowledge graphs and semantic constellations**.
+
+### Built with
+
+* Sentence Transformers
+* Knowledge Graph Generation
+* Three.js
+* MediaPipe
+* React
+* TypeScript
+* Fastify
+* Local Transformer Embeddings
+* Real-time clustering and similarity mapping
+
+🔗 [Explore Ideascape](https://github.com/nikhil8424/mindmapping)
 
 ---
 
 # 🧠 Domains I Work In
 
-- Generative AI (GenAI)
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning
-- Deep Learning
-- NLP (Natural Language Processing)
-- Knowledge Graphs
-- AI Visualization Systems
-- Human-Computer Interaction
-- Gesture-Based Computing
-- LegalTech
-- Recommendation Systems
-- Cybersecurity AI
-- FinTech
-- Web Development
-- System Design
-- Data Analysis
-- Game Development
-- OCR & Document Intelligence
-- 3D Interactive Systems
-- AI Product Engineering
+* Generative AI
+* Retrieval-Augmented Generation
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Knowledge Graphs
+* Graph Machine Learning
+* LegalTech
+* FinTech
+* Cybersecurity AI
+* Explainable AI
+* Fair ML
+* Recommendation Systems
+* AI Visualization
+* Human-Computer Interaction
+* Gesture Computing
+* OCR & Document Intelligence
+* 3D Interactive Systems
+* System Design
+* Data Analysis
+* AI Product Engineering
 
 ---
 
-# 📌 Currently Exploring
+# 🛠️ Tech Stack
 
-- AI Agents & Autonomous Systems
-- Vector Databases
-- LLM Fine-Tuning
-- Multi-Agent Systems
-- Scalable Backend Architectures
-- Advanced DSA & Competitive Programming
-- Cloud + DevOps Workflows
-- AI-native Product Design
-- Real-time AI Applications
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
+
+### AI / NLP
+
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+### Web & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil._o611) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-gupta-6b7705288/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@nikhil chandrakesh gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptanikhil8424@gmail.com) 
+# 🚀 Currently Exploring
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nikhil8424&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nikhil8424&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikhil8424&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* AI Agents & Autonomous Systems
+* Vector Databases
+* LLM Fine-Tuning
+* Multi-Agent Systems
+* Graph-based AI
+* Scalable Backend Architectures
+* Advanced DSA & Competitive Programming
+* Cloud & DevOps
+* AI-native Product Design
+* Real-time AI Applications
+
+---
+
+# 📄 Research Paper
+
+### Learned vs. Heuristic Thresholds for Cascade Retrieval Routing in Indian Legal Question Answering
+
+The accompanying research work investigates adaptive retrieval routing for Indian legal question answering and compares **learned and heuristic routing thresholds** across multiple retrieval strategies.
+
+**Status:** Under review
+
+🔗 [Research Repository](https://github.com/nikhil8424/Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering)
+
+---
+
+# 📫 Connect With Me
+
+* 💼 [LinkedIn](https://linkedin.com/in/nikhil-gupta-6b7705288)
+* 🌐 [Portfolio](https://port-kyap6969b-nikhil8424s-projects.vercel.app/)
+* 📄 [Resume](https://docs.google.com/document/d/1Y5OU840INffko6XqPo3fr4t1v5Od6NuR/edit)
+* 📧 [Email](mailto:guptanikhil8424@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+![Nikhil's GitHub Stats](https://github-readme-stats.shion.dev/api?username=nikhil8424\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nikhil8424\&theme=dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=nikhil8424\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikhil8424&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nikhil8424\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nikhil8424&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> **Building systems, experimenting with research, and turning ideas into working AI. 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil8424\&icon=0\&color=0)
