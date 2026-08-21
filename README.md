@@ -117,19 +117,133 @@ The goal is to improve **retrieval efficiency while maintaining answer quality**
 
 ---
 
-# 🚀 Featured Projects
+---
 
-| Project                                                                                                             | Domain                     | Description                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [LegalEase](https://github.com/nikhil8424/legalease)                                                                | GenAI • RAG • LegalTech    | AI-powered legal assistant with OCR, clause extraction, legal simplification, multilingual support, and RAG       |
-| [Ideascape](https://github.com/nikhil8424/mindmap)                                                                  | AI • Knowledge Graphs • 3D | AI-powered thought visualization platform that transforms journal entries into interactive 3D knowledge graphs    |
-| [Legal Relationship Extraction](https://github.com/nikhil8424/Legal-Relationship-Extraction-)                       | NLP • Knowledge Graphs     | Extracts legal entities, obligations, and relationships from documents to generate structured relationship graphs |
-| [Financial Fraud Intelligence](https://github.com/nikhil8424/AI-Based-Financial-Fraud-Intelligence-System)          | ML • FinTech • GNN         | Graph-based fraud intelligence system combining anomaly detection, GNNs, community detection, and risk scoring    |
-| [Hierarchical SOM](https://github.com/nikhil8424/Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-)       | ML • Unsupervised Learning | Hierarchical SOM representation-learning pipeline evaluated on the UCI Gas Sensor Array Drift Dataset             |
-| [Spike-Legal-NLP](https://github.com/nikhil8424/Spike-Legal-NLP)                                                    | SNN • Legal NLP            | Experimental framework studying spike encoding and SNNs for legal text classification under domain shift          |
-| [Student Burnout Predictor](https://github.com/nikhil8424/student-burn-out-predictor-version-2.1)                   | ML • EdTech                | Machine-learning system for identifying student burnout patterns                                                  |
-| [AI Career Recommendation](https://github.com/nikhil8424/AI-based-career-recommendation-system)                     | AI • Recommendation        | Intelligent career recommendation engine based on personality and skill analysis                                  |
-| [Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | AI • Cybersecurity         | Neural model for code vulnerability detection and optimization recommendations                                    |
+# 🏆 Project Portfolio Ranking
+
+> **Ranking methodology:** Projects are ranked by a combination of technical depth, originality, research value, real-world usefulness, engineering complexity, and portfolio/recruiter value. Different versions of the same project are grouped together rather than treated as separate projects.
+
+| Rank | Project Family | Repository Versions / Related Repositories | Rating | Portfolio Value |
+|---:|---|---|---:|---|
+| **1** | 🥇 **Algorithm Archaeologist** | `Algorithm-Archeologist` | **9.8/10** | Exceptional |
+| **2** | 🥈 **Spike-Legal-NLP Research** | `Spike-Legal-NLP`, `Spike-Legal-NLP-Research-Framework`, `legal-spike-encoding`, `A-Semantic-and-Energy-Aware...`, `Semantic---Energy-Aware...v3`, `researchpaper` | **9.7/10** | Exceptional |
+| **3** | 🥉 **AI Financial Fraud Intelligence** | `AI-Based-Financial-Fraud-Intelligence-System`, `v2`, `v3`, `v4` | **9.5/10** | Exceptional |
+| **4** | **Hierarchical SOM** | `Hierarchical-SOM-on-the-UCI-Gas-Sensor-Array-Drift-Dataset-`, `...v2` | **9.3/10** | Excellent |
+| **5** | **LegalEase** | `Legalese_version_1.0`, `Legalese_version_3.0`, `legalese_4.1`, `legalEase-version-4.2`, `LegalEase-5`, `LegalEase-6.0`, `legalease`, `legalease6.1`, `legalease6.2`, `legalese_main`, `legalese_in_flask`, `Legalese_for_hackathon`, `final_legalese_application`, `legal-demo` | **9.2/10** | Excellent |
+| **6** | **Advanced Neural Code Vulnerability Classifier** | `Advanced-Neural-Code-Vulnerability-Classifier`, `Advanced-Neural-Code-Vulnerability-Classifier-version-1`, `ai-bases-code-vulnerability-identifier-and-code-optimization-suggestion` | **9.0/10** | Excellent |
+| **7** | **Legal Relationship Extraction** | `Legal-Relationship-Extraction-` | **8.7/10** | Very Strong |
+| **8** | **Learned vs. Heuristic Retrieval Routing** | `Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering` | **8.7/10** | Very Strong |
+| **9** | **IdeaScape / Mindmap / Knowledge Graph** | `IdeaScape`, `ideascape2`, `mindmapping`, `mindmap` | **8.5/10** | Very Strong |
+| **10** | **AlgoScape** | `AlgoScape`, `Algoscape-v2` | **8.5/10** | Very Strong |
+| **11** | **AI Career Recommendation** | `AI-based-career-recommendation-system`, `career-recommendation-system-based-on-holland-career-theory` | **8.0/10** | Strong |
+| **12** | **Student Burnout Predictor** | `student-burnout-predictor`, `student-burn-out-predictor-version-2.1` | **7.9/10** | Strong |
+| **13** | **FoodMap** | `foodmap`, `foodmap-v3`, `foodmap-v4`, `foodmap-done` | **7.8/10** | Strong |
+| **14** | **Cyborg 3D Landing Page** | `Cyborg-Themed-Landing-Page-Development` | **7.6/10** | Good |
+| **15** | **Build-in-3D** | `Build-in-3D` | **7.5/10** | Good |
+| **16** | **AI Trip Planner** | `ai-trip-planner` | **7.4/10** | Good |
+| **17** | **Gym Management System** | `gym-management-website-`, `v0-gym-management-website` | **7.3/10** | Good |
+| **18** | **Portfolio Ecosystem** | `portfolio`, `port`, `portfolios`, `portttfooollioooooooooo`, `poertolio`, `portfolio-nikhil-gupta`, `portfolio-nikhil-gupta-2025`, `portfolio-2026`, `nikhil-gupta`, `nikhil8424` | **7.2/10** | Supporting |
+| **19** | **C Compiler / Syntax Error Detector** | `C-compiler-identifying-syntax-erroes` | **7.1/10** | Good |
+| **20** | **Healthcare Management System** | `Healthcare_managemen_system_in_JAVA` | **6.9/10** | Good |
+| **21** | **Hospital Management System** | `Hospital-Management-System` | **6.7/10** | Moderate |
+| **22** | **IPL Player Analysis** | `IPL_Player_Analysis` | **6.6/10** | Moderate |
+| **23** | **Aura Sphere Game** | `Aura-sphere-game` | **6.5/10** | Moderate |
+| **24** | **Java Projects** | `java` | **6.3/10** | Moderate |
+| **25** | **Lucene / Document Library** | `lucne-doc-lib`, `lucene-` | **6.3/10** | Moderate |
+| **26** | **DA / Advanced DAML Coursework** | `da-project`, `proect-adv-daml-sem-6`, `sem6-proj` | **6.2/10** | Moderate |
+| **27** | **Hackathon Projects** | `SIES_NERUL_HACKATHON_2025_cashein`, `ceeras_hackathon_2025` | **6.1/10** | Moderate |
+| **28** | **Full Stack** | `full-stack` | **6.0/10** | Moderate |
+| **29** | **CC Projects** | `cc-main`, `cc-project-main-` | **5.9/10** | Moderate |
+| **30** | **.NET Practicals** | `dotnet-prac` | **5.8/10** | Moderate |
+| **31** | **Multilevel Quiz Website** | `Multilevel-Quiz-Website` | **5.6/10** | Basic |
+| **32** | **Chandrayaan Quiz** | `Quiz-website-on-chandrayan` | **5.5/10** | Basic |
+| **33** | **Bus Reservation Application** | `Buss_Reservation_aaplication` | **5.3/10** | Basic |
+| **34** | **Home Management System** | `HOME-MANAGEMENT-SYSTEM` | **5.2/10** | Basic |
+| **35** | **Tasks / Small Exercises** | `task2-`, `task3`, `proj3` | **5.0/10** | Low |
+| **36** | **Miscellaneous / Insufficient Evidence** | `Aditya-Singh`, `shubkirti`, `shubhammm`, `pinterest-`, `jrnls`, `alzimer`, `ALZ` | **N/A** | Unknown |
+
+## 🔎 Why the Top Projects Stand Out
+
+### 1. Algorithm Archaeologist — **9.8/10**
+
+This is currently your **strongest project**.
+
+It goes beyond simply using an LLM to generate code:
+
+**Problem → multiple algorithmic approaches → implementations → adversarial testing → benchmarking → evaluation → trade-off analysis**
+
+This demonstrates:
+
+- Agentic AI
+- Algorithms
+- Automated experimentation
+- Benchmarking
+- Software engineering
+- Reasoning and evaluation
+- Python
+- AI-assisted development
+
+It is best positioned as a **research-engineering project** because it combines autonomous exploration with systematic validation.
+
+### 2. Spike-Legal-NLP Research — **9.7/10**
+
+This is arguably your most **research-oriented** project family.
+
+The repositories should be treated as one research program rather than unrelated repositories:
+
+- `Spike-Legal-NLP`
+- `Spike-Legal-NLP-Research-Framework`
+- `legal-spike-encoding`
+- `A-Semantic-and-Energy-Aware...`
+- `Semantic---Energy-Aware...v3`
+- `researchpaper`
+
+The combination of:
+
+**Legal NLP + Spiking Neural Networks + semantic encoding + energy awareness + domain shift**
+
+makes it substantially more distinctive than a conventional college ML project.
+
+### 3. AI Financial Fraud Intelligence — **9.5/10**
+
+The progression from the original system through `v2`, `v3`, and `v4` demonstrates iterative development rather than a single isolated implementation.
+
+Key areas include:
+
+- Graph analytics
+- Fraud detection
+- Machine learning
+- GNN concepts
+- Financial intelligence
+- Visualization
+- AI
+
+This is particularly relevant for **ML Engineer, Data Scientist, and AI Engineer** roles.
+
+### 4. Hierarchical SOM — **9.3/10**
+
+The strongest aspect is not simply implementing SOM, but the research pipeline:
+
+**Raw sensor data → SOM representation → second-level SOM → hierarchical representation**
+
+followed by comparison against:
+
+- K-Means
+- Single SOM
+
+using clustering evaluation metrics.
+
+That makes the project more academically defensible and research-oriented.
+
+### 5. LegalEase — **9.2/10**
+
+LegalEase is your **largest long-running project family**.
+
+Its evolution represents a multi-stage LegalTech product:
+
+**OCR → NLP → clause extraction → relationship extraction → summarization → translation → RAG → chatbot**
+
+The many repositories are therefore better interpreted as development stages of one major system rather than separate projects.
 
 ---
 
@@ -154,113 +268,6 @@ My current research interests include:
 
 ---
 
-# 📚 Other Projects
-
-| Project                                                                                                                      | Domain                           |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [AI Trip Planner](https://github.com/nikhil8424/ai-trip-planner)                                                             | AI • TravelTech                  |
-| [Advanced Neural Code Vulnerability Classifier](https://github.com/nikhil8424/Advanced-Neural-Code-Vulnerability-Classifier) | Cybersecurity • Deep Learning    |
-| [IPL Player Analysis](https://github.com/nikhil8424/IPL_Player_Analysis)                                                     | Data Analysis • Sports Analytics |
-| [Aura Sphere Game](https://github.com/nikhil8424/Aura-sphere-game)                                                           | Game Development • Godot         |
-| [Full Stack](https://github.com/nikhil8424/full-stack)                                                                       | Full-Stack Development           |
-| [Build-in-3D](https://github.com/nikhil8424/Build-in-3D)                                                                     | 3D Web Development               |
-| [Cyborg Landing Page](https://github.com/nikhil8424/Cyborg-Themed-Landing-Page-Development)                                  | Frontend • UI/UX                 |
-
----
-
-# 🌌 Ideascape
-
-One of my experimental projects is **Ideascape**, an AI-powered cognitive visualization platform.
-
-It transforms thoughts, dreams, and journal fragments into interactive **3D knowledge graphs and semantic constellations**.
-
-### Built with
-
-* Sentence Transformers
-* Knowledge Graph Generation
-* Three.js
-* MediaPipe
-* React
-* TypeScript
-* Fastify
-* Local Transformer Embeddings
-* Real-time clustering and similarity mapping
-
-🔗 [Explore Ideascape](https://github.com/nikhil8424/mindmapping)
-
----
-
-# 🧠 Domains I Work In
-
-* Generative AI
-* Retrieval-Augmented Generation
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Knowledge Graphs
-* Graph Machine Learning
-* LegalTech
-* FinTech
-* Cybersecurity AI
-* Explainable AI
-* Fair ML
-* Recommendation Systems
-* AI Visualization
-* Human-Computer Interaction
-* Gesture Computing
-* OCR & Document Intelligence
-* 3D Interactive Systems
-* System Design
-* Data Analysis
-* AI Product Engineering
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
-
-### AI / NLP
-
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### Web & Backend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-### Databases & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
----
-
 # 🚀 Currently Exploring
 
 * AI Agents & Autonomous Systems
@@ -273,18 +280,6 @@ It transforms thoughts, dreams, and journal fragments into interactive **3D know
 * Cloud & DevOps
 * AI-native Product Design
 * Real-time AI Applications
-
----
-
-# 📄 Research Paper
-
-### Learned vs. Heuristic Thresholds for Cascade Retrieval Routing in Indian Legal Question Answering
-
-The accompanying research work investigates adaptive retrieval routing for Indian legal question answering and compares **learned and heuristic routing thresholds** across multiple retrieval strategies.
-
-**Status:** Under review
-
-🔗 [Research Repository](https://github.com/nikhil8424/Learned-vs.-Heuristic-Thresholds-for-Cascade-Retrieval-Routing-in-Indian-Legal-Question-Answering)
 
 ---
 
